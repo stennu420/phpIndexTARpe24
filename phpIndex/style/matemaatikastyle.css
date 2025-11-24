@@ -1,0 +1,44 @@
+<style>
+.box {
+    background: #f5f5f5;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 10px;
+    border: 2px solid #ddd;
+    width: fit-content;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    font-family: Arial, sans-serif;
+}
+
+.title {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+#correct {
+    color: green;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+#incorrect {
+    color: red;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+form {
+    background: #eef;
+    padding: 15px;
+    border-radius: 8px;
+    width: fit-content;
+    margin-top: 20px;
+    border: 1px solid #aac;
+}
+
+form label {
+    font-weight: bold;
+}
+</style>
