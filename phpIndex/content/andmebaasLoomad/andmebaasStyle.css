@@ -1,0 +1,19 @@
+table, td{
+    width: 40%;
+    border: solid 1pt gray;
+    border-collapse: collapse;
+    text-align: center;
+
+
+}
+form table{
+  width: 30%;
+}
+input[type=submit]{
+    background-color: #04AA6D;
+    padding: 2%;
+    width: 40%;
+    border-radius: 10px;
+
+}
+
