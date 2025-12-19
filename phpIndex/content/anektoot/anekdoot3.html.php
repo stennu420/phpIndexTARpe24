@@ -3,31 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <title>Anekdoot 3</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style/anekdoodistyle.css">
 </head>
 <body>
 
 <div class="page-wrapper">
 
-    <header>
+    <div class="box header-box">
         <h1>Anekdoodid</h1>
-    </header>
+    </div>
 
-    <div class="joke-box">
+    <div class="box joke-box">
         <h2>Anekdoot 3</h2>
-
         <p>
-            Isa, isa, kas Ameerika on veel kaugel?"<br>
-            "Ära latra pojake, vaid sõua kiiremini!"
+            "Juku, kas sul on kingad jalas?" <br>
+            "Jah, kõik peale ühe!"
+
         </p>
     </div>
 
-    <footer>
+    <div class="box footer-box">
         © 2025 Anekdoodileht
-    </footer>
+    </div>
 
 </div>
 
-</body>
-</html>
 
