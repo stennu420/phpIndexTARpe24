@@ -2,31 +2,27 @@
 <html lang="et">
 <head>
     <meta charset="UTF-8">
-    <title>Anekdoot 3</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Anekdoot 1</title>
+    <link rel="stylesheet" href="style/anekdoodistyle.css">
 </head>
 <body>
 
 <div class="page-wrapper">
 
-    <header>
+    <div class="box header-box">
         <h1>Anekdoodid</h1>
-    </header>
+    </div>
 
-    <div class="joke-box">
+    <div class="box joke-box">
         <h2>Anekdoot 1</h2>
-
         <p>
             "Isa, isa, kas Ameerika on veel kaugel?"<br>
             "Ära latra pojake, vaid sõua kiiremini!"
         </p>
     </div>
 
-    <footer>
+    <div class="box footer-box">
         © 2025 Anekdoodileht
-    </footer>
+    </div>
 
 </div>
-
-</body>
-</html>
