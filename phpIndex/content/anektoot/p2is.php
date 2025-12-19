@@ -1,21 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html lang="et">
 <head>
     <meta charset="UTF-8">
-    <title>Anekdootide leht</title>
-    <link rel="stylesheet" href="style/style.css">
+    <title>Anekdoodid</title>
+    <link href="index.php">
+    <link href="jalus.php">
+    <link rel="stylesheet" href="style/anekdoodistyle.css">
 </head>
 <body>
 
-<header>
-    <h1>Anekdootide kogumik</h1>
-    <nav>
-        <ul>
-            <li><a href="anekdoot1.html.php">Anekdoot 1</a></li>
-            <li><a href="anekdoot2.html.php">Anekdoot 2</a></li>
-            <li><a href="anekdoot3.html.php">Anekdoot 3</a></li>
-        </ul>
-    </nav>
-</header>
+<div class="page-wrapper">
 
-<div class="content">
+
+    <header>
+        <h1>Anekdoodid</h1>
+        <nav>
+            <a href="anekdoot1.html.php">Anekdoot 1</a> |
+            <a href="anekdoot2.html.php">Anekdoot 2</a> |
+            <a href="anekdoot3.html.php">Anekdoot 3</a>
+        </nav>
+    </header>
+
